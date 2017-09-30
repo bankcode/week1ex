@@ -1,0 +1,35 @@
+.nav {
+  background-color: red;
+  margin: 15px;
+  padding: 8px;
+}
+
+li{
+  background-color: blue;
+  display: inline-block;
+  padding: 10px;
+}
+
+.box {
+  float: Left;
+  width: 50
+  border: 5px solid red;
+}
+
+.box img {
+  width: 50px;
+  border: 5px solid black;
+  padding: 15px;
+}
+
+.bg-dark
+{
+  background-color: grey;
+  color: white;
+}
+.box p {
+  background-color: black;
+  margin: 5px;
+  border: 5px solid yellow;
+  padding-left: 20px;
+}
